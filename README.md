@@ -2,7 +2,6 @@
   
 ![header](https://images.velog.io/images/choi46910/post/44755ae6-64f5-4fb2-a0bb-71e98eb4f47f/%EB%8C%80%EB%AC%B8%EC%88%98%EC%A0%952.png)
 
-  <br>
   
 ## 👩‍💻 Teck Stack
   #### Techs that I've used at least once
