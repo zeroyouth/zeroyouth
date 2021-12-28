@@ -21,7 +21,7 @@
 ## 👇 me
 <a href="https://velog.io/@choi46910">
 <img
-src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://velog.io/@choi46910"
+src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=velog&link=https://velog.io/@choi46910"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
